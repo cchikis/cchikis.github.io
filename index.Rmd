@@ -1,5 +1,6 @@
 ---
-title: "Personal Website"
+title: "Craig A. Chikis"
 ---
 
-Hello, World!
+Thank you for visiting my website. I am a senior research assistant at the Board of Governors of the Federal Reserve System. I work in the Macro-financial Analysis (MFA) section in Monetary Affairs (MA). My long-term plan is to earn a PhD in Economics and drive a research agenda centered on macroeconomics, growth, innovation, and macro-labor.
+
