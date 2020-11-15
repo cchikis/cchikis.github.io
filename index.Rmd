@@ -2,5 +2,35 @@
 title: "Craig A. Chikis"
 ---
 
+<style>
+.column-left{
+  padding-top: 25pt;
+  padding-bottom: 25pt;
+  float: left;
+  width: 25%;
+  height: 400pt;
+  text-align: right;
+}
+.column-right{
+  padding-top: 25pt;
+  padding-bottom: 25pt;
+  float: right;
+  width: 70%;
+  height: 400pt;
+  text-align: justify;
+}
+</style>
+
+
+<div class="column-left">
+
+   <img src="./files/Monsieur_Madeleine_par_Gustave_Brion.jpg" style="width:100%">
+   
+</div>
+
+<div class="column-right">
+
 Thank you for visiting my website. I am a senior research assistant at the Board of Governors of the Federal Reserve System. I work in the Macro-financial Analysis (MFA) section in Monetary Affairs (MA). My long-term plan is to earn a PhD in Economics and drive a research agenda centered on macroeconomics, growth, innovation, and macro-labor.
 
+
+I don't like sharing pictures of myself as my Facebook, LinkedIn, and this website will attest. However, I have been informed this website looks rather drab without a personal photograph. Here is a picture of Jean Valjean, the protagonist of _Les Misérables_ by Victor Hugo (1862), disguised under the false identity of Monsieur Madeleine, the mayor of Montreuil-sur-Mer. Illustration by Gustave Brion.
