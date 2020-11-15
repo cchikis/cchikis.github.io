@@ -3,3 +3,5 @@ title: "About Me"
 ---
 
 Here is the most recent version of my [CV](./files/cchikis_CV.pdf).
+
+I also make available my [resume](./files/Chikis_resume_edit.pdf)
